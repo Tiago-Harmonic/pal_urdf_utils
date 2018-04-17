@@ -30,7 +30,7 @@
   <xacro:gazebo_world_odometry frame="base_footprint" topic="floating_base_pose_simulated" is_multiple="false" nsp=""/>
 
   <!-- imu -->
-  <xacro:include filename="$(find pal_urdf_utils)/gazebo/plugin_world_odometry.urdf.xacro" />
+  <xacro:include filename="$(find pal_urdf_utils)/gazebo/plugin_imu.urdf.xacro" />
   <xacro:gazebo_imu frame="base_imu_link" update_rate="1000.0"/>
 
 </robot>
