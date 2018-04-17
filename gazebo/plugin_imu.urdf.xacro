@@ -10,7 +10,7 @@
 -->
 <robot xmlns:xacro="http://ros.org/wiki/xacro">
   <xacro:macro name="gazebo_imu" params="frame update_rate">
-    <gazebo reference=${frame}>
+    <gazebo reference="${frame}">
       <!-- this is expected to be reparented to pelvis with appropriate offset
            when imu_link is reduced by fixed joint reduction -->
       <!-- todo: this is working with gazebo 1.4, need to write a unit test -->
