@@ -46,8 +46,12 @@
     <color rgba="0.0 0.0 0.0 1.0"/>
   </material>
 
+  <material name="FlatBlack">
+    <color rgba="0.09 0.09 0.09 1.0"/>
+  </material>
+
   <material name="Orange">
-    <color rgba="1.0 0.6 0.0 1.0"/>
+    <color rgba="1.0 0.487 0.0 1.0"/>
   </material>
 
   <material name="pal/Orange">
