@@ -2,8 +2,8 @@
 Changelog for package pal_urdf_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.0 (2023-11-22)
+------------------
 * Merge branch 'port-to-ros2' into 'humble-devel'
   Port package.xml and CMakeLists.txt
   See merge request robots/pal_urdf_utils!2
