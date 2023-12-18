@@ -9,6 +9,8 @@
   <maintainer email="thomas.peyrucain@pal-robotics.com">Thomas Peyrucain</maintainer>
   <license>Apache License 2.0</license>
 
+  <url type="website">https://github.com/pal-robotics/pal_urdf_utils</url>
+
   <buildtool_depend>ament_cmake_auto</buildtool_depend>
 
   <exec_depend>xacro</exec_depend>
