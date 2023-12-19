@@ -2,8 +2,8 @@
 Changelog for package pal_urdf_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.1 (2023-12-19)
+------------------
 * Add website tag
 * Add xml version
 * Contributors: Noel Jimenez
